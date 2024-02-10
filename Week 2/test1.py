@@ -1,4 +1,3 @@
-
 var ="Hello World!".split()
 
 print(var)
