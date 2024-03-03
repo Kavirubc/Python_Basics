@@ -1,0 +1,24 @@
+{
+  "name": "email-gen",
+  "version": "1.0.0",
+  "description": "Email generator with QR for ACM hour of code event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaviru Hapuarachchi",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "getusermedia": "^2.0.1",
+    "googleapis": "^129.0.0",
+    "jimp": "^0.22.10",
+    "nodemailer": "^6.9.7",
+    "puppeteer": "^21.5.2",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "webshot": "^0.18.0"
+  }
+}
